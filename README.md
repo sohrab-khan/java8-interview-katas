@@ -14,8 +14,8 @@
 ## 🚀 60-Second Quickstart
 
 ```bash
-git clone https://github.com/mr-khan/Java8-Interview-Katas.git
-cd Java8-Interview-Katas
+git clone https://github.com/mr-khan/java8-interview-katas.git
+cd java8-interview-katas
 
 # See the RED failing todo tests
 mvn test -Dtest="**Todo*"
@@ -72,7 +72,7 @@ See [`docs/README.md`](docs/README.md) for the full index, a quick-lookup table,
 ## 📁 Project Structure
 
 ```
-Java8-Interview-Katas/
+java8-interview-katas/
 ├── docs/                              ← 📖 Reference docs (one per module)
 │   ├── README.md                      ← Index + top 10 gotchas
 │   ├── 01-lambda-and-functional-interfaces.md
