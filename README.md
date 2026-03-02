@@ -14,7 +14,7 @@
 ## 🚀 60-Second Quickstart
 
 ```bash
-git clone https://github.com/mr-khan/java8-interview-katas.git
+git clone https://github.com/sohrab-khan/java8-interview-katas
 cd java8-interview-katas
 
 # See the RED failing todo tests
