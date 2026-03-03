@@ -6,7 +6,7 @@
 [![Java 8](https://img.shields.io/badge/Java-8-orange?logo=java)](https://www.java.com)
 [![JUnit5](https://img.shields.io/badge/JUnit-5.10-green?logo=junit5)](https://junit.org/junit5/)
 [![AssertJ](https://img.shields.io/badge/AssertJ-3.26-blue)](https://assertj.github.io/doc/)
-[![Maven CI](https://github.com/mr-khan/Java8-Interview-Katas/actions/workflows/maven.yml/badge.svg)](https://github.com/mr-khan/Java8-Interview-Katas/actions)
+[![Maven CI](https://github.com/sohrab-khan/java8-interview-katas/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/sohrab-khan/java8-interview-katas/actions/workflows/maven.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
